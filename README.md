@@ -94,7 +94,9 @@
 <details>
 <summary><b>🔗💘ɢɪᴛ ᴄʟᴏɴɪɴɢ💝</b></summary>
 <br>
-## ɢɪᴛ ᴄʟᴏɴɪɴɢ
+> Check cloning process
+
+
 ```console
 $ git clone https://github.com/levina-lab/video-stream
 $ cd video-stream
