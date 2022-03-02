@@ -91,14 +91,16 @@
 <br>
 <a href="https://t.me/santhubotupadates"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a>       <a href="https://t.me/santhuvc"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
+</details>
+
 <details>
-<summary><b>🔗💘ɢɪᴛ ᴄʟᴏɴɪɴɢ💝</b></summary>
+<summary><b>🔗💘ᴅᴇᴘʟᴏʏ ᴛᴏ ᴠᴘs💝</b></summary>
 <br>
-> Check cloning process
+> deploy to vps
 
 
 ```console
-$ git clone https://github.com/levina-lab/video-stream
+$ git clone https://github.com/Santhumusicbot/santhumusic
 $ cd video-stream
 $ pip3 install -U -r requirements.txt
 $ cp example.env .
