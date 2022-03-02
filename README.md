@@ -91,8 +91,13 @@
 <br>
 <a href="https://t.me/santhubotupadates"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a>       <a href="https://t.me/santhuvc"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
+<details>
+<summary><b>🔗💘ɢɪᴛ ᴄʟᴏɴɪɴɢ💝</b></summary>
+<br>
 ## ɢɪᴛ ᴄʟᴏɴɪɴɢ
-'$ git clone https://github.com/levina-lab/video-stream'
-'$ cd video-stream'
-'$ pip3 install -U -r requirements.txt'
-'$ cp example.env .'
+```console
+$ git clone https://github.com/levina-lab/video-stream
+$ cd video-stream
+$ pip3 install -U -r requirements.txt
+$ cp example.env .
+```
